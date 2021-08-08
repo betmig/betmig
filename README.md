@@ -8,7 +8,6 @@ My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente c
 - 👯 I’m looking to collaborate on ... Any project that can develop my skills on anything frontend.
 - 📫 How to reach me: [email me here](mailto:betmig.link@betmig.link)
 - 😄 Pronouns: Ella/She/Her ✦ Ellos/They/Them
-- ⚡ Fun fact: 
 
 <!--
 **betmig/betmig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
