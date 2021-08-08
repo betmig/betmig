@@ -3,7 +3,7 @@ My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente c
 
   🎖If you’d like to join or have any questions about joining
   please feel free to email me to betmig[dot]link[at]betmig[dot]link
-  with the Subject “*UoL - GSDC - Brief title related to your question*”
+  with the Subject “*UoL - GDSC - Brief title related to your question*”
   Thanks!💋🌸
 
 - 🔭 I’m currently working on ...
