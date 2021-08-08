@@ -1,5 +1,10 @@
 ### ¡Hola!👋
-😁 My name is Betmig, and I’m a former 🤖 technology, 🎨 art & design cognoscente currently studying computer sciences at 🇬🇧 University of London, in which I also happen to lead their 🧑🏽‍🔬Google Developer Student Club. 
+My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente currently studying Computer Sciences 💻👩🏽‍🔬 at 🇬🇧 Goldsmiths, University of London, in which I also happen to lead their 🧑🏽‍🔬Google Developer Student Club.
+
+  🎖If you’d like to join or have any questions about joining
+  please feel free to email me to betmig[dot]link[at]betmig[dot]link
+  with the Subject “*UoL - GSDC - Brief title related to your question*”
+  Thanks!💋🌸
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
