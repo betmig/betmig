@@ -1,11 +1,9 @@
 ### ¡Hola!👋
 My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente currently studying Computer Sciences 💻👩🏽‍🔬 at 🇬🇧 Goldsmiths, University of London, in which I also happen to lead their 🧑🏽‍🔬Google Developer Student Club.
 
-[🎖If you’d like to join or have any questions about joining  please feel free to email me with the Subject “*UoL - GDSC - Brief title related to your question*” Thanks!💋🌸](mailto:betmig.link@betmig.link)
-
 - 🔭 I’m currently working on ... my portfolio and a JS little game.
-- 🌱 I’m currently learning ... MongoDB, Express(.js), React(.js), Node(.js)
-- 👯 I’m looking to collaborate on ... Any project that can develop my skills on anything frontend.
+- 🌱 I’m currently learning ... Flutter, MongoDB, Express(.js), React(.js), Node(.js).
+- 👯 I’m looking to collaborate on ... Any project that can develop my skills on anything really.
 - 📫 How to reach me: [email me here](mailto:betmig.link@betmig.link)
 - 😄 Pronouns: Ella/She/Her ✦ Ellos/They/Them
 
