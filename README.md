@@ -1,12 +1,12 @@
 ### ¡Hola Friend!👋
 My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente currently studying Computer Sciences 💻👩🏽‍🔬 at 🇬🇧 Goldsmiths, University of London. Also, I'm their Google Developer Student Club lead.
 
-- 🔭 I’m currently working on my portfolio and a [P5 JS game project](https://editor.p5js.org/betmig/full/FfJQceIAW)
+- 🔭 I’m currently working on my portfolio and this[P5 JS game project](https://editor.p5js.org/betmig/sketches/FfJQceIAW)
 - 🌱 I’m currently learning Flutter, MongoDB, Express(.js), React(.js), Node(.js).
 - 👯 I’m looking to collaborate on any project of anykind! I'm an artist at heart, love crating things, apps, art, music, etc.
 - 📫 How to reach me: [email me here](mailto:betmig.link@betmig.link)
 - 😄 Pronouns: Ella/She/Her ✦ Ellos/They/Them
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I used to play a lot of videogames, nowadays I just want to make them.
 
 <!--
 **betmig/betmig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
