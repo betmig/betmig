@@ -1,5 +1,5 @@
 ### ¡Hola Friend!👋
-My name is Betmig, and I’m a former nurse 🏥 & art/design 🎨 cognoscente currently studying Computer Sciences 💻👩🏽‍🔬 at 🇬🇧 Goldsmiths, University of London. Also, I'm their Google Developer Student Club lead.
+My name is Betmig, and I’m a former nurse 🏥 & art/design cognoscente 🎨 currently studying Computer Sciences 💻👩🏽‍🔬 at 🇬🇧 Goldsmiths, University of London. Also, I'm their Google Developer Student Club lead.
 
 - 🔭 I’m currently working on [my portfolio](https://betmig.dev) and this [P5 JS game project](https://editor.p5js.org/betmig/sketches/seUbj8ODt)
 - 🌱 I’m currently learning Flutter, MongoDB, Express(.js), React(.js), Node(.js).
