@@ -6,7 +6,7 @@
 ## I'm a 💃🏽 LatinX Developer, 💍 Wifey, 🤖 Robotics Enthusiast, 👩🏽‍🏫 Teacher...
 ...🏥 Nurse 🎨 Artist 💰 Entrepreneur!
 <br> Always changing ♾
-<br> Let's go! 🚀 🚀
+<br><br> Let's go! 🚀 🚀
 
 <br>
 
