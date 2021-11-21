@@ -14,8 +14,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
-<p><a href="https://ko-fi.com/betmig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="betmig" /></a></p><br><br>
-
 ### Connect with me:
 <p align="left">
 <a href="https://codepen.io/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="betmig" height="30" width="40" /></a>
@@ -46,6 +44,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<p><a href="https://ko-fi.com/betmig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="betmig" /></a></p><br><br>
+
 
 
 [website]: https://betmig.dev
