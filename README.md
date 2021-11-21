@@ -6,6 +6,9 @@
 ## I'm a LatinX developer with a focus on AI+ML 🤖 and helping humans ❤️
 🏥 Nurse 🎨 Artist 💰 Entrepreneur | Let's go! 🚀 🚀
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/betmig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="betmig" /></a></p><br><br>
+
 <br>
 
 - 🔭 I'm working on my first tech course in Spanish 👀
