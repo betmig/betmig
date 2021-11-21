@@ -6,6 +6,8 @@
 ## I'm a LatinX developer with a focus on AI+ML 🤖 and helping humans ❤️
 🏥 Nurse 🎨 Artist 💰 Entrepreneur | Let's go! 🚀 🚀
 
+<br>
+
 - 🔭 I'm working on my first tech course in Spanish 👀
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other female developers
