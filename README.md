@@ -15,12 +15,20 @@
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
 ### Connect with me:
-
-[<img align="left" alt="Betmig.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Betmig | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Betmig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Betmig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Betmig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="betmig" height="30" width="40" /></a>
+<a href="https://dev.to/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="betmig" height="30" width="40" /></a>
+<a href="https://twitter.com/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="betmig" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/betmiglink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betmiglink" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="betmig" height="30" width="40" /></a>
+<a href="https://fb.com/betmig.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="betmig.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/betmiglink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="betmiglink" height="30" width="40" /></a>
+<a href="https://medium.com/@betmig.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@betmig.link" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc8cnnhm3vq9v_znsuxfj2ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8cnnhm3vq9v_znsuxfj2ja" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="betmig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/betmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="betmig" height="30" width="40" /></a>
+</p>
 
 <br />
 
