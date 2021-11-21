@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=betmig.dev&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
 
-## I'm a LatinX developer, Wifey, Robotics enthusiast, Teacher!
+## I'm a 💃🏽 LatinX developer, 💍 wifey, 🤖 robotics enthusiast, 👩🏽‍🏫teacher!
 🏥 Nurse 🎨 Artist 💰 Entrepreneur
 Let's go! 🚀 🚀
 
