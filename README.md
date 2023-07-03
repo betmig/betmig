@@ -1,4 +1,4 @@
-<h1 align="center"> Hola Amig@!💞 I'm Betmig 👋 </h1>
+<h1 align="center"> Hej Amig@!💞 I'm Betmig 👋 </h1>
 
 [![Website](https://img.shields.io/website?label=betmig.dev&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 I'm working on my first tech course in Spanish 👀
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Next.js, Typescript, Tailwindcss, and refining my React skills 🤣
 - 👯 I’m looking to collaborate with other female developers
 - 🥅 2021 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
