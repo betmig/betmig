@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=betmig.dev&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
 
-<h3 align="center">I'm a 💃🏽 Proud Latina 👩🏽‍🔧 Developer 👩🏽‍🏫 Teacher 🏥 Nurse 🎨 Artist 💰 Entrepreneur 🤖 Robotics Enthusiast... and so much more! Let's go! 🚀 🚀</h3>
+<h3 align="center">I'm a 💃🏽 Proud Latina 👩🏽‍🔧 Developer 👩🏽‍🏫 Teacher 🏥 Nurse 🎨 Artist 💰 Entrepreneur 🤖 Robotics Enthusiast... <br> and so much more! Let's go! 🚀 🚀</h3>
 <br>
 <h1 align="center"> 🧘🏽‍♀️...I'm always evolving...🌱 </h1>
 
