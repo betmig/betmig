@@ -12,7 +12,7 @@
 - 🔭 I'm working on my first tech course in Spanish 👀
 - 🌱 I’m currently learning Next.js, Typescript, Tailwindcss, and refining my React skills 🤣
 - 👯 I’m looking to collaborate with other female developers
-- 🥅 2021 Goals: Contribute more to Open Source projects & do more pair programming study groups
+- 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
 ### Connect with me:
