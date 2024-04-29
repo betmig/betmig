@@ -4,15 +4,9 @@
 [![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
 
-<h3 align="center">I'm a 💃🏽 Proud Hispanic 👩🏽‍🔧 Developer 👩🏽‍🏫 Teacher 🏥 Nurse 🎨 Artist 💰 Entrepreneur 🤖 Robotics Enthusiast... <br> and so much more! Let's go! 🚀 🚀</h3>
-<br>
-<h1 align="center"> 🧘🏽‍♀️...I'm always evolving...🌱 </h1>
-
-<br>
-
 - 🔭 I'm working on my first tech course in Spanish 👀
-- 🌱 I’m currently learning Next.js, Typescript, Tailwindcss, and refining my React skills 🤣
-- 👯 I’m looking to collaborate with other female developers
+- 🌱 I’m currently learning Next.js, Typescript, Tailwind CSS, and refining my React skills 🤣
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
@@ -45,18 +39,13 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br><br>
 
-### Support:
-<p><a href="https://ko-fi.com/betmig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="betmig" /></a></p><br><br>
 
-
-
-[website]: https://betmig.dev
+[website]: https://betmig.link
 [twitter]: https://twitter.com/Betmig
 [youtube]: https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA
 [instagram]: https://instagram.com/betmiglink
