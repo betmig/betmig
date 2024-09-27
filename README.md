@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
 
 - 🔭 I'm working on my first tech course in Spanish 👀
-- 🌱 I’m currently learning Next.js, Typescript, Tailwind CSS, and refining my React skills 🤣
+- 🌱 I’m currently learning Laravel/PHP, yup! 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
