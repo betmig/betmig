@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Description](https://github.com/betmig/betmig/raw/main/ezgif-4-e27989680b.gif)
+![Cute Image of Myself](https://github.com/betmig/betmig/raw/main/ezgif-4-e27989680b.gif)
 
 [![Visual CV](https://img.shields.io/website?label=Visual%20Resume%20/%20CV%20-%20betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
 [![My Business](https://img.shields.io/website?label=Mettabit.io%20-%20My%20Engineering%20Consultancy%20Firm&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
