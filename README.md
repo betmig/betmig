@@ -35,10 +35,10 @@
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
 
-- 🔭 I'm working on my first tech course in Spanish 👀
-- 🌱 I’m currently learning Laravel/PHP, yup! 🤣
+- 🔭 I'm working on my secret visual novel 👀
+- 🌱 I’m currently learning C++, yup! 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
+- 🥅 2024 Goals: Contribute more to AI Safety organizations
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
 <h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ & TOOᒪᔕ </h1>
