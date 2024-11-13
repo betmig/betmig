@@ -6,6 +6,17 @@
 
 <h3 align="center">𝕁𝕒𝕘 𝕙𝕖𝕥𝕖𝕣 𝔹𝕖𝕥𝕞𝕚𝕘... 𝕞𝕖𝕟 𝕛𝕒𝕘 𝕗ö𝕣𝕖𝕕𝕣𝕒𝕣 𝕖𝕟 𝕙𝕒𝕟𝕕𝕤𝕜𝕒𝕜𝕟𝕚𝕟𝕘! 😊  </h3>
 
+
+
+![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=for-the-badge)
+![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=for-the-badge)
+![Mexico](https://img.shields.io/badge/🇲🇽-𝗜%20𝗔%20𝗠%20𝗕%20𝗘%20𝗧%20𝗠%20𝗜%20𝗚-002453?style=for-the-badge)
+![Sweden](https://img.shields.io/badge/🇸🇪-Mi%20nombre%20es%20Betmig-9fb3ee?style=for-the-badge)
+![Sweden](https://img.shields.io/badge/🇸🇪-Jag%20heter%20Betmig-ffa680?style=for-the-badge)
+
+
+
+
 <div align="center">
 
 [![Visual CV](https://img.shields.io/website?label=Visual%20Resume%20/%20CV%20-%20betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
