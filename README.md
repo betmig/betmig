@@ -172,9 +172,9 @@
 <h3 align="center"> Language Proficiency </h3>
 <div align="center">
   
-![English](https://img.shields.io/badge/English-Native?style=flat-square&logo=language&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-Native?style=flat-square&logo=language&logoColor=white)
-![Swedish](https://img.shields.io/badge/Swedish-Elementary?style=flat-square&logo=language&logoColor=white)
+![English](https://img.shields.io/badge/English-English-007ACC?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%BA%F0%9F%87%B8)
+![Spanish](https://img.shields.io/badge/Spanish-Español-FF7A59?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%AA%F0%9F%87%B8)
+![Swedish](https://img.shields.io/badge/Swedish-Svenska-005BAC?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%B8%F0%9F%87%AA)
 
 </div>
 
