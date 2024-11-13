@@ -100,7 +100,8 @@
   
 | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) | ![Asana](https://img.shields.io/badge/Asana-FF3D00?style=flat-square&logo=asana&logoColor=white) |
 |---|---|---|
-| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) | ![G Suite](https://img.shields.io/badge/G_Suite-4285F4?style=flat-square&logo=google&logoColor=white) | |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) | ![G Suite](https://img.shields.io/badge/G_Suite-4285F4?style=flat-square&logo=google&logoColor=white) | ![IRC](https://img.shields.io/badge/IRC-1E90FF?style=flat-square&logo=irc&logoColor=white) |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white) |
 
 </div>
 
