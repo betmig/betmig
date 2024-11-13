@@ -45,7 +45,7 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
-<h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ ᗩᑎᗪ TOOᒪᔕ </h1>
+<h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ & TOOᒪᔕ </h1>
 
 <h3 align="center"> 🖼️ ᖴᖇOᑎT-Eᑎᗪ </h3>
 
@@ -95,7 +95,7 @@
 
 </div>
 
-<h3 align="center"> 🚀 ᑭᖇOᒍEᑕT ᗰᗩᑎᗩGEᗰEᑎT ᗩᑎᗪ ᑕOᒪᒪᗩᗷOᖇᗩTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> 🚀 ᑭᖇOᒍEᑕT ᗰᗩᑎᗩGEᗰEᑎT  & ᑕOᒪᒪᗩᗷOᖇᗩTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) | ![Asana](https://img.shields.io/badge/Asana-FF3D00?style=flat-square&logo=asana&logoColor=white) |
@@ -104,7 +104,7 @@
 
 </div>
 
-<h3 align="center"> 😘 ᑕᑌᔕTOᗰEᖇ ᔕᑌᑭᑭOᖇT ᗩᑎᗪ ᔕEᖇᐯIᑕE TOOᒪᔕ </h3>
+<h3 align="center"> 😘 ᑕᑌᔕTOᗰEᖇ ᔕᑌᑭᑭOᖇT  & ᔕEᖇᐯIᑕE TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![Zendesk Explore](https://img.shields.io/badge/Zendesk_Explore-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=flat-square&logo=appsheet&logoColor=white) |
@@ -112,7 +112,7 @@
 
 </div>
 
-<h3 align="center"> 🎨 ᑕᖇEᗩTIᐯE ᗩᑎᗪ ᗰEᗪIᗩ ᑭᖇOᗪᑌᑕTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> 🎨 ᑕᖇEᗩTIᐯE  & ᗰEᗪIᗩ ᑭᖇOᗪᑌᑕTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obs-studio&logoColor=white) | ![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-FF0000?style=flat-square&logo=vegas&logoColor=white) |
@@ -123,7 +123,7 @@
 
 </div>
 
-<h3 align="center"> 🧩 ᗪEᐯEᒪOᑭᗰEᑎT ᗩᑎᗪ ᑕOᗪE EᗪITIᑎG TOOᒪᔕ </h3>
+<h3 align="center"> 🧩 ᗪEᐯEᒪOᑭᗰEᑎT  & ᑕOᗪE EᗪITIᑎG TOOᒪᔕ </h3>
 <div align="center">
   
 | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Oxygen XML IDE](https://img.shields.io/badge/Oxygen_XML_IDE-3A9BDD?style=flat-square&logo=oxygen&logoColor=white) | ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white) |
@@ -144,7 +144,7 @@
 
 </div>
 
-<h3 align="center"> ✨ ᗰᗩᖇKETIᑎG ᗩᑎᗪ ᑕOᗰᗰᑌᑎIᑕᗩTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> ✨ ᗰᗩᖇKETIᑎG  & ᑕOᗰᗰᑌᑎIᑕᗩTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 
