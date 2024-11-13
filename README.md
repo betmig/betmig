@@ -17,8 +17,8 @@
 [![Visual CV](https://img.shields.io/website?label=Visual%20Resume%20/%20CV%20-%20betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
 [![My Business](https://img.shields.io/website?label=Mettabit.io%20-%20My%20Engineering%20Consultancy%20Firm&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
 
-[![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-9fb3ee?style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/betmig)
-[![Mentoring Session](https://img.shields.io/badge/Mentoring%20Session-ffa680?style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/betmig)
+[![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-002453?style=for-the-badge&logo=tidycal&logoColor=white)](https://tidycal.com/betmig)
+[![Schedule a Tutoring Session](https://img.shields.io/badge/Schedule%20a%20Tutoring%20Session-002453?style=for-the-badge&logo=tidycal&logoColor=white)](https://tidycal.com/betmig)
 
 </div>
 
