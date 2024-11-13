@@ -31,7 +31,7 @@
 
 [![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
 [![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-ffa680?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-002453?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-002453?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betmig)
 [![Facebook Like](https://img.shields.io/badge/Facebook-connect-9fb3ee?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-follow-ffa680?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
 [![Medium Follow](https://img.shields.io/badge/Medium-follow-002453?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
