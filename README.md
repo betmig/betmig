@@ -7,19 +7,16 @@
 <h3 align="center">𝕁𝕒𝕘 𝕙𝕖𝕥𝕖𝕣 𝔹𝕖𝕥𝕞𝕚𝕘... 𝕞𝕖𝕟 𝕛𝕒𝕘 𝕗ö𝕣𝕖𝕕𝕣𝕒𝕣 𝕖𝕟 𝕙𝕒𝕟𝕕𝕤𝕜𝕒𝕜𝕟𝕚𝕟𝕘! 😊  </h3>
 
               [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)<br><br>
-### Connect with me:
-[![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-blue?logo=mastodon)](https://mastodon.social/@betmig)
-[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-blue?logo=bluesky)](https://bsky.app/profile/betmig.bsky.social)
-[![Codepen Follow](https://img.shields.io/badge/Codepen-follow-black?logo=codepen&logoColor=white)](https://codepen.io/betmig)
-[![Dev.to Follow](https://img.shields.io/badge/Dev.to-follow-black?logo=dev.to&logoColor=white)](https://dev.to/betmig)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/betmig)
-[![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-join-orange?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
+
+<h1 align="center"> 𝕷𝖊𝖙'𝖘 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖆𝖓𝖉 𝕮𝖗𝖊𝖆𝖙𝖊 𝕾𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝕬𝖒𝖆𝖟𝖎𝖓𝖌! </h1>
+[![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-blue?logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
+[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-blue?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-follow-blue?logo=twitter&logoColor=white)](https://twitter.com/betmig)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
 [![Facebook Like](https://img.shields.io/badge/Facebook-like-blue?logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
 [![Medium Follow](https://img.shields.io/badge/Medium-follow-black?logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA)
-[![HackerRank Practice](https://img.shields.io/badge/HackerRank-practice-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
-[![LeetCode Practice](https://img.shields.io/badge/LeetCode-practice-FFA116?logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
 
