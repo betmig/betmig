@@ -1,3 +1,4 @@
+![Greetings](https://github.com/betmig/betmig/raw/main/hello-github.gif)
 
 <h3 align="center">𝕀 𝔸𝕄 𝔹𝔼𝕋𝕄𝕀𝔾 😉</h3>
 
