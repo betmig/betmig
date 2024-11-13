@@ -1,7 +1,7 @@
 <div align="center">
 ![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=social)
 ![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=social)
-![Mexico](https://img.shields.io/badge/🇲🇽-%20-002453?style=social)
+![Mexico](https://img.shields.io/badge/🇲🇽-002453?style=social)
 ![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=social)
 </div>
 <h3 align="center">𝗜  𝗔 𝗠  𝗕 𝗘 𝗧 𝗠 𝗜 𝗚 😉 </h3>
