@@ -1,5 +1,10 @@
 <h1 align="center">🇺🇸 ᕼ ᓰ   🇻🇪 ᕼ 𐍈 ࠋ 𐌰 🇲🇽   🇸🇪 ᕼ E ᒍ</h1>
 
+![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=for-the-badge)
+![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=for-the-badge)
+![Mexico](https://img.shields.io/badge/🇲🇽-ᕼ-002453?style=for-the-badge)
+![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=for-the-badge)
+
 <h3 align="center">𝗜  𝗔 𝗠  𝗕 𝗘 𝗧 𝗠 𝗜 𝗚 😉 </h3>
 
 <h3 align="center">𝑴 𝒊  𝒏 𝒐 𝒎 𝒃 𝒓 𝒆  𝒆 𝒔  𝑩 𝒆 𝒕 𝒎 𝒊 𝒈  💅🏽  </h3>
@@ -8,11 +13,7 @@
 
 
 
-![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=for-the-badge)
-![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=for-the-badge)
-![Mexico](https://img.shields.io/badge/🇲🇽-𝗜%20𝗔%20𝗠%20𝗕%20𝗘%20𝗧%20𝗠%20𝗜%20𝗚-002453?style=for-the-badge)
-![Sweden](https://img.shields.io/badge/🇸🇪-Mi%20nombre%20es%20Betmig-9fb3ee?style=for-the-badge)
-![Sweden](https://img.shields.io/badge/🇸🇪-Jag%20heter%20Betmig-ffa680?style=for-the-badge)
+
 
 
 
