@@ -1,8 +1,5 @@
-<br>
 <h1 align="center">      🇺🇸 ᕼ ᓰ   🇸🇪 ᕼ E ᒍ   🇻🇪 ᕼ 𐍈 ࠋ 𐌰 🇲🇽     </h1>
-<br>
 <h2 align="center">   🅘  🅐 🅜  🅑 🅔 🅣 🅜 🅘 🅖  🅛 🅘 🅝 🅚    </h2>
-<br>
 <h2 align="center">🄸  🄰 🄼  🄱 🄴 🅃 🄼 🄸 🄶  🄻 🄸 🄽 🄺</h2>
 <br>
 <h3 align="center"> 𝕁 𝕒 𝕘   𝕙 𝕖 𝕥 𝕖 𝕣   ᗷ E T ᗰ I G...   𝕞 𝕖 𝕟   𝕛 𝕒 𝕘   𝕗 ö 𝕣 𝕖 𝕕 𝕣 𝕒𝕣    𝕖 𝕟  <br> 𝕙 𝕒 𝕟 𝕕 𝕤 𝕜 𝕒 𝕜 𝕟 𝕚 𝕟 𝕘 !   😆   🤭</h3>
