@@ -1,5 +1,5 @@
 <h1 align="center">  </h1>
-<h1 align="center"> ╰•★★  🇺🇸 ᕼ ᓰ 🇸🇪 𝓗 𝓮 𝓳 🇻🇪 𐌷 𐍈 ࠋ 𐌰 🇲🇽  ★★•╯ </h1>
+<h1 align="center"> ╰•★★  🇺🇸 ᕼ ᓰ 🇸🇪 ᕼ E ᒍ 🇻🇪 𐌷 𐍈 ࠋ 𐌰 🇲🇽  ★★•╯ </h1>
 <h1 align="center">  </h1>
 <h4 align="center"> 𝕁𝕒𝕘 𝕙𝕖𝕥𝕖𝕣 ᗷETᗰIG... 𝕞𝕖𝕟 𝕛𝕒𝕘 𝕗ö𝕣𝕖𝕕𝕣𝕒𝕣 𝕖𝕟 𝕙𝕒𝕟𝕕𝕤𝕜𝕒𝕜𝕟𝕚𝕟𝕘! 😆🤭</h1>
 <h3 align="center"> I am 𝔅𝔢𝔱𝔪𝔦𝔤! </h1>
