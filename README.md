@@ -10,14 +10,14 @@
 
 <h3 align="center"> ᴸᵉᵗ'ˢ ᶜᵒⁿⁿᵉᶜᵗ ᵃⁿᵈ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᴬᵐᵃᶻⁱⁿᵍ! </h3>
 
-[![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-purple?logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
-[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-purple?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-follow-pink?logo=twitter&logoColor=white)](https://twitter.com/betmig)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-pink?logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
-[![Facebook Like](https://img.shields.io/badge/Facebook-like-purple?logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-follow-pink?logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
-[![Medium Follow](https://img.shields.io/badge/Medium-follow-purple?logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube-subscribe-pink?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA)
+[![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
+[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-9fb3ee?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-follow-ffa680?logo=twitter&logoColor=white)](https://twitter.com/betmig)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-002453?logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
+[![Facebook Like](https://img.shields.io/badge/Facebook-like-9fb3ee?logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-follow-ffa680?logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
+[![Medium Follow](https://img.shields.io/badge/Medium-follow-002453?logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-subscribe-9fb3ee?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA)
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
 
