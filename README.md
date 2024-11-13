@@ -9,6 +9,7 @@
                     [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)<br><br>
 
 <h3 align="center"> ᒪET'ᔕ ᑕOᑎᑎEᑕT </h3>
+<div align="center">
 
 [![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
 [![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-ffa680?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
@@ -22,6 +23,8 @@
 [![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-join-002453?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
 [![HackerRank Practice](https://img.shields.io/badge/HackerRank-practice-9fb3ee?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
 [![LeetCode Practice](https://img.shields.io/badge/LeetCode-practice-ffa680?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
+
+</div>
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
 
