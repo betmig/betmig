@@ -1,19 +1,4 @@
 <h1 align="center">  </h1>
-<style>
-.scroll-text {
-  animation: scroll-left 20s linear infinite;
-  white-space: nowrap;
-}
-
-@keyframes scroll-left {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
-
-<div style="overflow: hidden; width: 100%;">
-  <h1 class="scroll-text">🇺🇸 ᕼ ᓰ   🇸🇪 ᕼ E ᒍ   🇻🇪 ᕼ 𐍈 ࠋ 𐌰 🇲🇽</h1>
-</div>
 <h1 align="center">      🇺🇸 ᕼ ᓰ   🇸🇪 ᕼ E ᒍ   🇻🇪 ᕼ 𐍈 ࠋ 𐌰 🇲🇽     </h1>
 <h1 align="center">   🅘  🅐 🅜  🅑 🅔 🅣 🅜 🅘 🅖  🅛 🅘 🅝 🅚    </h1>
 <h1 align="center">  </h1>
