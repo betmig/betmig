@@ -1,8 +1,8 @@
 <div align="center">
   
-![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=for-the-badge)
-![Venezuela and Mexico](https://img.shields.io/badge/🇻🇪🇲🇽-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=for-the-badge)
-![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=for-the-badge)
+![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=social)
+![Venezuela and Mexico](https://img.shields.io/badge/🇻🇪🇲🇽-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=social)
+![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=social)
 
 </div>
 <h3 align="center">𝗜  𝗔 𝗠  𝗕 𝗘 𝗧 𝗠 𝗜 𝗚 😉 </h3>
