@@ -15,15 +15,6 @@
 [![Visual CV](https://img.shields.io/website?label=Visual%20Resume%20/%20CV%20-%20betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
 [![My Business](https://img.shields.io/website?label=Mettabit.io%20-%20My%20Engineering%20Consultancy%20Firm&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
 
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=betmig&color=blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/betmig/betmig&title=Hits)
-
-<br>
-
-![Welcome](https://github.com/betmig/betmig/raw/main/ezgif-4-e27989680b.gif)
-
 </div>
 
 <h3 align="center"> ᒪET'ᔕ ᑕOᑎᑎEᑕT </h3>
@@ -170,4 +161,13 @@
 [youtube]: https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA
 [instagram]: https://instagram.com/betmiglink
 [linkedin]: https://www.linkedin.com/in/betmig/
+
+<br>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=betmig&color=blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/betmig/betmig&title=Hits)
+
+</div>
 
