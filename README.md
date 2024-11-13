@@ -52,7 +52,7 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects & do more pair programming study groups
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
-### Languages and Tools:
+<h1 align="center"> Languages and Tools </h1>
 
 <h3 align="center"> Front-end </h3>
 
