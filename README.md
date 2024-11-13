@@ -1,6 +1,6 @@
 <div align="center">
   
-![Greetings](https://github.com/betmig/betmig/raw/main/hello-github.gif)
+![Greetings](https://github.com/betmig/betmig/raw/main/hola-github.gif)
 
 </div>
 
