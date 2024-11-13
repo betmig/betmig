@@ -47,7 +47,7 @@
 
 <h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ ᗩᑎᗪ TOOᒪᔕ </h1>
 
-<h3 align="center"> ᖴᖇOᑎT-Eᑎᗪ </h3>
+<h3 align="center"> 🖼️ ᖴᖇOᑎT-Eᑎᗪ </h3>
 
 <div align="center">
   
@@ -58,7 +58,7 @@
 
 </div>
 
-<h3 align="center"> ᗷᗩᑕK-Eᑎᗪ </h3>
+<h3 align="center"> 🍑 ᗷᗩᑕK-Eᑎᗪ </h3>
 <div align="center">
   
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) |
@@ -68,7 +68,7 @@
 
 </div>
 
-<h3 align="center"> ᗪᗩTᗩᗷᗩᔕEᔕ </h3>
+<h3 align="center"> 🏢 ᗪᗩTᗩᗷᗩᔕEᔕ </h3>
 <div align="center">
   
 | ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white) |
@@ -77,7 +77,7 @@
 
 </div>
 
-<h3 align="center"> ᗪEᐯOᑭᔕ/ᑕᒪOᑌᗪ ᔕEᖇᐯIᑕEᔕ </h3>
+<h3 align="center"> 📡 ᗪEᐯOᑭᔕ/ᑕᒪOᑌᗪ ᔕEᖇᐯIᑕEᔕ </h3>
 <div align="center">
   
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
@@ -87,7 +87,7 @@
 
 </div>
 
-<h3 align="center"> ᖴOᖇᗰᗩT & ᑭᖇOTOᑕOᒪᔕ </h3>
+<h3 align="center"> 🩼 ᖴOᖇᗰᗩT & ᑭᖇOTOᑕOᒪᔕ </h3>
 <div align="center">
   
 | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) | ![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square&logo=xml&logoColor=white) | ![SSML](https://img.shields.io/badge/SSML-FF69B4?style=flat-square&logo=ssml&logoColor=white) |
@@ -95,7 +95,7 @@
 
 </div>
 
-<h3 align="center"> ᑭᖇOᒍEᑕT ᗰᗩᑎᗩGEᗰEᑎT ᗩᑎᗪ ᑕOᒪᒪᗩᗷOᖇᗩTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> 🚀 ᑭᖇOᒍEᑕT ᗰᗩᑎᗩGEᗰEᑎT ᗩᑎᗪ ᑕOᒪᒪᗩᗷOᖇᗩTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) | ![Asana](https://img.shields.io/badge/Asana-FF3D00?style=flat-square&logo=asana&logoColor=white) |
@@ -104,7 +104,7 @@
 
 </div>
 
-<h3 align="center"> ᑕᑌᔕTOᗰEᖇ ᔕᑌᑭᑭOᖇT ᗩᑎᗪ ᔕEᖇᐯIᑕE TOOᒪᔕ </h3>
+<h3 align="center"> 😘 ᑕᑌᔕTOᗰEᖇ ᔕᑌᑭᑭOᖇT ᗩᑎᗪ ᔕEᖇᐯIᑕE TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![Zendesk Explore](https://img.shields.io/badge/Zendesk_Explore-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=flat-square&logo=appsheet&logoColor=white) |
@@ -112,7 +112,7 @@
 
 </div>
 
-<h3 align="center"> ᑕᖇEᗩTIᐯE ᗩᑎᗪ ᗰEᗪIᗩ ᑭᖇOᗪᑌᑕTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> 🎨 ᑕᖇEᗩTIᐯE ᗩᑎᗪ ᗰEᗪIᗩ ᑭᖇOᗪᑌᑕTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obs-studio&logoColor=white) | ![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-FF0000?style=flat-square&logo=vegas&logoColor=white) |
@@ -123,7 +123,7 @@
 
 </div>
 
-<h3 align="center"> ᗪEᐯEᒪOᑭᗰEᑎT ᗩᑎᗪ ᑕOᗪE EᗪITIᑎG TOOᒪᔕ </h3>
+<h3 align="center"> 🧩 ᗪEᐯEᒪOᑭᗰEᑎT ᗩᑎᗪ ᑕOᗪE EᗪITIᑎG TOOᒪᔕ </h3>
 <div align="center">
   
 | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Oxygen XML IDE](https://img.shields.io/badge/Oxygen_XML_IDE-3A9BDD?style=flat-square&logo=oxygen&logoColor=white) | ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white) |
@@ -133,7 +133,7 @@
 
 </div>
 
-<h3 align="center"> OᑭEᖇᗩTIᑎG ᔕYᔕTEᗰᔕ </h3>
+<h3 align="center"> 🗿 OᑭEᖇᗩTIᑎG ᔕYᔕTEᗰᔕ </h3>
 <div align="center">
   
 | ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
@@ -144,7 +144,7 @@
 
 </div>
 
-<h3 align="center"> ᗰᗩᖇKETIᑎG ᗩᑎᗪ ᑕOᗰᗰᑌᑎIᑕᗩTIOᑎ TOOᒪᔕ </h3>
+<h3 align="center"> ✨ ᗰᗩᖇKETIᑎG ᗩᑎᗪ ᑕOᗰᗰᑌᑎIᑕᗩTIOᑎ TOOᒪᔕ </h3>
 <div align="center">
   
 
@@ -153,7 +153,7 @@
 
 </div>
 
-<h3 align="center"> ᒪᗩᑎGᑌᗩGE ᑭᖇOᖴIᑕIEᑎᑕY </h3>
+<h3 align="center"> 🙊 ᒪᗩᑎGᑌᗩGE ᑭᖇOᖴIᑕIEᑎᑕY </h3>
 <div align="center">
   
 | ![English](https://img.shields.io/badge/English-English-007ACC?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%BA%F0%9F%87%B8) | ![Spanish](https://img.shields.io/badge/Spanish-Español-FF7A59?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%AA%F0%9F%87%B8) | ![Swedish](https://img.shields.io/badge/Swedish-Svenska-005BAC?style=flat-square&logo=language&logoColor=white&label=%F0%9F%87%B8%F0%9F%87%AA) |
