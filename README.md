@@ -140,6 +140,17 @@
 
 </div>
 
+<h3 align="center"> Operating Systems </h3>
+<div align="center">
+  
+| ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+|---|---|---|
+| ![Asahi Linux](https://img.shields.io/badge/Asahi_Linux-FF5733?style=flat-square&logo=linux&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=linux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
+| ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tails&logoColor=white) |
+| ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white) | | |
+
+</div>
+
 <h3 align="center"> Marketing and Communication Tools </h3>
 <div align="center">
   
