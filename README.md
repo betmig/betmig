@@ -1,9 +1,9 @@
 <h1 align="center">🇺🇸 ᕼ ᓰ   🇻🇪 ᕼ 𐍈 ࠋ 𐌰 🇲🇽   🇸🇪 ᕼ E ᒍ</h1>
 
-![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=for-the-badge)
-![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=for-the-badge)
-![Mexico](https://img.shields.io/badge/🇲🇽-ᕼ-002453?style=for-the-badge)
-![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=for-the-badge)
+![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=social)
+![Venezuela](https://img.shields.io/badge/🇻🇪-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=social)
+![Mexico](https://img.shields.io/badge/🇲🇽-ᕼ-002453?style=social)
+![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=social)
 
 <h3 align="center">𝗜  𝗔 𝗠  𝗕 𝗘 𝗧 𝗠 𝗜 𝗚 😉 </h3>
 
