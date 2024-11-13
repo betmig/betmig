@@ -135,6 +135,7 @@
   
 | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Oxygen XML IDE](https://img.shields.io/badge/Oxygen_XML_IDE-3A9BDD?style=flat-square&logo=oxygen&logoColor=white) | ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white) |
 |---|---|---|
+| ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white) | | |
 
 
 </div>
