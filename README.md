@@ -11,8 +11,7 @@
 <h3 align="center"> ᴸᵉᵗ'ˢ ᶜᵒⁿⁿᵉᶜᵗ ᵃⁿᵈ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᴬᵐᵃᶻⁱⁿᵍ! </h3>
 
 [![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
-[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-9fb3ee?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-follow-ffa680?logo=twitter&logoColor=white)](https://twitter.com/betmig)
+[![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-ffa680?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-002453?logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
 [![Facebook Like](https://img.shields.io/badge/Facebook-like-9fb3ee?logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-follow-ffa680?logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
