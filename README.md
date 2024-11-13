@@ -6,7 +6,7 @@
 
 <h3 align="center">𝕁𝕒𝕘 𝕙𝕖𝕥𝕖𝕣 𝔹𝕖𝕥𝕞𝕚𝕘... 𝕞𝕖𝕟 𝕛𝕒𝕘 𝕗ö𝕣𝕖𝕕𝕣𝕒𝕣 𝕖𝕟 𝕙𝕒𝕟𝕕𝕤𝕜𝕒𝕜𝕟𝕚𝕟𝕘! 😊</h3>
 
-               [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)[![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
+             [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)[![Twitter Follow](https://img.shields.io/twitter/follow/Betmig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Betmig)
 
 - 🔭 I'm working on my first tech course in Spanish 👀
 - 🌱 I’m currently learning Laravel/PHP, yup! 🤣
