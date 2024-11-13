@@ -1,4 +1,5 @@
-![Greetings](https://github.com/betmig/betmig/raw/main/hello-github.gif)
+<div align="center"> ![Greetings](https://github.com/betmig/betmig/raw/main/hello-github.gif)
+</div>
 
 <h3 align="center">𝕀 𝔸𝕄 𝔹𝔼𝕋𝕄𝕀𝔾 😉</h3>
 
