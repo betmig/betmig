@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
-[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
+[![Visual CV](https://img.shields.io/website?label=Visual%20Resume%20/%20CV%20-%20betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=9fb3ee)](https://betmig.link)
+[![My Business](https://img.shields.io/website?label=Mettabit.io%20-%20IT%20Consultancy&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
 
 </div>
 
@@ -23,11 +23,11 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-follow-ffa680?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
 [![Medium Follow](https://img.shields.io/badge/Medium-follow-002453?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-subscribe-9fb3ee?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA)
-[![Codepen Follow](https://img.shields.io/badge/Codepen-follow-9fb3ee?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/betmig)
-[![Dev.to Follow](https://img.shields.io/badge/Dev.to-follow-ffa680?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/betmig)
-[![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-join-002453?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
-[![HackerRank Practice](https://img.shields.io/badge/HackerRank-practice-9fb3ee?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
-[![LeetCode Practice](https://img.shields.io/badge/LeetCode-practice-ffa680?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
+[![Codepen Follow](https://img.shields.io/badge/Codepen-follow-ffa680?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/betmig)
+[![Dev.to Follow](https://img.shields.io/badge/Dev.to-follow-002453?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/betmig)
+[![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-join-9fb3ee?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
+[![HackerRank Practice](https://img.shields.io/badge/HackerRank-practice-ffa680?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
+[![LeetCode Practice](https://img.shields.io/badge/LeetCode-practice-002453?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
 
 </div>
 
