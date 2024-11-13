@@ -1,10 +1,10 @@
-<div align="center">
+<h1 align="center">
   
 ![USA](https://img.shields.io/badge/🇺🇸-ᕼ%20ᓰ-9fb3ee?style=social)
 ![Venezuela and Mexico](https://img.shields.io/badge/🇻🇪🇲🇽-ᕼ%20𐍈%20ࠋ%20𐌰-ffa680?style=social)
 ![Sweden](https://img.shields.io/badge/🇸🇪-ᕼ%20E%20ᒍ-9fb3ee?style=social)
 
-</div>
+</h1>
 
 <h3 align="center">𝕀 𝔸𝕄 𝔹𝔼𝕋𝕄𝕀𝔾 😉</h3>
 
