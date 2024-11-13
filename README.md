@@ -19,6 +19,8 @@
 
 </div>
 
+![Welcome](https://github.com/betmig/betmig/raw/main/ezgif-4-e27989680b.gif)
+
 <h3 align="center"> ᒪET'ᔕ ᑕOᑎᑎEᑕT </h3>
 
 <div align="center">
