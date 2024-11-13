@@ -8,7 +8,7 @@
 
                     [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)<br><br>
 
-<h3 align="center"> ᴸᵉᵗ'ˢ ᶜᵒⁿⁿᵉᶜᵗ ᵃⁿᵈ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᴬᵐᵃᶻⁱⁿᵍ! </h3>
+<h2 align="center"> ᴸᵉᵗ'ˢ ᶜᵒⁿⁿᵉᶜᵗ ᵃⁿᵈ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᴬᵐᵃᶻⁱⁿᵍ! </h2>
 
 [![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
 [![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-ffa680?logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
