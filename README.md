@@ -17,6 +17,11 @@
 
 <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=betmig&color=blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/betmig/betmig&title=Hits)
+
+<br>
+
 ![Welcome](https://github.com/betmig/betmig/raw/main/ezgif-4-e27989680b.gif)
 
 </div>
