@@ -6,7 +6,7 @@
 
 <h3 align="center">𝕁𝕒𝕘 𝕙𝕖𝕥𝕖𝕣 𝔹𝕖𝕥𝕞𝕚𝕘... 𝕞𝕖𝕟 𝕛𝕒𝕘 𝕗ö𝕣𝕖𝕕𝕣𝕒𝕣 𝕖𝕟 𝕙𝕒𝕟𝕕𝕤𝕜𝕒𝕜𝕟𝕚𝕟𝕘! 😊  </h3>
 
-              [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)![Mastodon Follow](https://img.shields.io/mastodon/follow/:betmig@mastodon.social)
+              [![Visual CV](https://img.shields.io/website?label=betmig.link&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://betmig.link)[![My Business](https://img.shields.io/website?label=mettabit.io&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev)](https://mettabit.io)![Mastodon Follow](https://img.shields.io/mastodon/follow/@betmig@mastodon.social)
 
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
