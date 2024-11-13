@@ -182,5 +182,5 @@
 [twitter]: https://twitter.com/Betmig
 [youtube]: https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA
 [instagram]: https://instagram.com/betmiglink
-[linkedin]: https://www.linkedin.com/in/betmiglink/
+[linkedin]: https://www.linkedin.com/in/betmig/
 
