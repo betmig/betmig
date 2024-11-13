@@ -32,15 +32,15 @@
 [![Mastodon Follow](https://img.shields.io/badge/Mastodon-follow-9fb3ee?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@betmig)
 [![Bluesky Follow](https://img.shields.io/badge/Bluesky-follow-ffa680?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/betmig.bsky.social)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-connect-002453?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betmiglink)
-[![Facebook Like](https://img.shields.io/badge/Facebook-like-9fb3ee?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
+[![Facebook Like](https://img.shields.io/badge/Facebook-connect-9fb3ee?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/betmig.dev)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-follow-ffa680?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/betmiglink)
 [![Medium Follow](https://img.shields.io/badge/Medium-follow-002453?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@betmig.dev)
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-subscribe-9fb3ee?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8CnNHm3VQ9v_ZNsUXfJ2JA)
 [![Codepen Follow](https://img.shields.io/badge/Codepen-follow-ffa680?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/betmig)
 [![Dev.to Follow](https://img.shields.io/badge/Dev.to-follow-002453?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/betmig)
-[![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-join-9fb3ee?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
-[![HackerRank Practice](https://img.shields.io/badge/HackerRank-practice-ffa680?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
-[![LeetCode Practice](https://img.shields.io/badge/LeetCode-practice-002453?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
+[![Stack Overflow Join](https://img.shields.io/badge/Stack%20Overflow-connect-9fb3ee?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15329711/betmig)
+[![HackerRank Practice](https://img.shields.io/badge/HackerRank-follow-ffa680?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/betmig)
+[![LeetCode Practice](https://img.shields.io/badge/LeetCode-follow-002453?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/betmig)
 
 </div>
 
