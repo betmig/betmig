@@ -18,7 +18,6 @@
 [![My Business](https://img.shields.io/website?label=Mettabit.io%20-%20My%20Engineering%20Consultancy%20Firm&style=for-the-badge&url=https%3A%2F%2Fbetmig.dev&color=ffa680)](https://mettabit.io)
 
 [![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-9fb3ee?style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/betmig)
-
 [![Mentoring Session](https://img.shields.io/badge/Mentoring%20Session-ffa680?style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/betmig)
 
 </div>
