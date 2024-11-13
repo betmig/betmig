@@ -68,101 +68,83 @@
 <h3 align="center"> Back-end </h3>
 <div align="center">
   
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest-api&logoColor=white)
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) |
+|---|---|---|
+| ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest-api&logoColor=white) | |
 
 </div>
 
 <h3 align="center"> Databases </h3>
 <div align="center">
   
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+| ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white) |
+|---|---|---|
+| ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white) | | |
 
 </div>
 
 <h3 align="center"> DevOps/Cloud Services </h3>
 <div align="center">
   
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Logrocket](https://img.shields.io/badge/Logrocket-1E1E1E?style=flat-square&logo=logrocket&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0B5EAB?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![UNIX Bash](https://img.shields.io/badge/UNIX_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+|---|---|---|
+| ![Logrocket](https://img.shields.io/badge/Logrocket-1E1E1E?style=flat-square&logo=logrocket&logoColor=white) | ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-0B5EAB?style=flat-square&logo=n8n&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![UNIX Bash](https://img.shields.io/badge/UNIX_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 </div>
 
 <h3 align="center"> Format & Protocols </h3>
 <div align="center">
   
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square&logo=xml&logoColor=white)
-![SSML](https://img.shields.io/badge/SSML-FF69B4?style=flat-square&logo=ssml&logoColor=white)
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) | ![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square&logo=xml&logoColor=white) | ![SSML](https://img.shields.io/badge/SSML-FF69B4?style=flat-square&logo=ssml&logoColor=white) |
+|---|---|---|
 
 </div>
 
 <h3 align="center"> Project Management and Collaboration Tools </h3>
 <div align="center">
   
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-FF3D00?style=flat-square&logo=asana&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![G Suite](https://img.shields.io/badge/G_Suite-4285F4?style=flat-square&logo=google&logoColor=white)
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) | ![Asana](https://img.shields.io/badge/Asana-FF3D00?style=flat-square&logo=asana&logoColor=white) |
+|---|---|---|
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) | ![G Suite](https://img.shields.io/badge/G_Suite-4285F4?style=flat-square&logo=google&logoColor=white) | |
 
 </div>
 
 <h3 align="center"> Customer Support and Service Tools </h3>
 <div align="center">
   
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![Zendesk Explore](https://img.shields.io/badge/Zendesk_Explore-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=flat-square&logo=appsheet&logoColor=white)
+| ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![Zendesk Explore](https://img.shields.io/badge/Zendesk_Explore-03363D?style=flat-square&logo=zendesk&logoColor=white) | ![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=flat-square&logo=appsheet&logoColor=white) |
+|---|---|---|
 
 </div>
 
 <h3 align="center"> Creative and Media Production Tools </h3>
 <div align="center">
   
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obs-studio&logoColor=white)
-![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-FF0000?style=flat-square&logo=vegas&logoColor=white)
-![iMovie](https://img.shields.io/badge/iMovie-4B5EAB?style=flat-square&logo=imovie&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![AfterEffects](https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-FB070F?style=flat-square&logo=adobe&logoColor=white)
-![Substance 3D Designer](https://img.shields.io/badge/Substance_3D_Designer-FB070F?style=flat-square&logo=adobe&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
+| ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obs-studio&logoColor=white) | ![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-FF0000?style=flat-square&logo=vegas&logoColor=white) |
+|---|---|---|
+| ![iMovie](https://img.shields.io/badge/iMovie-4B5EAB?style=flat-square&logo=imovie&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) | ![Adobe Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) |
+| ![AfterEffects](https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) | ![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-FB070F?style=flat-square&logo=adobe&logoColor=white) | ![Substance 3D Designer](https://img.shields.io/badge/Substance_3D_Designer-FB070F?style=flat-square&logo=adobe&logoColor=white) |
+| ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white) | | |
 
 </div>
 
 <h3 align="center"> Development and Code Editing Tools </h3>
 <div align="center">
   
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Oxygen XML IDE](https://img.shields.io/badge/Oxygen_XML_IDE-3A9BDD?style=flat-square&logo=oxygen&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Oxygen XML IDE](https://img.shields.io/badge/Oxygen_XML_IDE-3A9BDD?style=flat-square&logo=oxygen&logoColor=white) | ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white) |
+|---|---|---|
+
 
 </div>
 
 <h3 align="center"> Marketing and Communication Tools </h3>
 <div align="center">
   
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) | |
+|---|---|---|
 
 </div>
 
