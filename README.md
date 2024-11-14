@@ -46,7 +46,7 @@
 
 <h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ & TOOᒪᔕ </h1>
 
-<div align="center"> Disclaimer: <i>Working with various technologies has shaped my perspective: While I list multiple tools and frameworks I've encountered, my expertise ranges from basic to advanced across different combinations of these. I'm not claiming mastery of everything - rather, I'm highlighting my core strength: <b>rapid adaptation</b>. I'm neither a specialist nor a generalist; <b>I'm an adaptatist.</b> Given reasonable time, I can effectively navigate and integrate into most tech stacks. My value lies not in knowing everything, but in quickly aligning my skills with your specific needs and context. </i></div>
+<div align="center"> <b>Disclaimer:</b><br><br> <i>Working with various technologies has shaped my perspective: While I list multiple tools and frameworks I've encountered, my expertise ranges from basic to advanced across different combinations of these. <br> I'm not claiming mastery of everything - rather, I'm highlighting my core strength: <b>rapid adaptation</b>. <br><br> I'm neither a specialist nor a generalist; <b>I'm an adaptatist.</b> Given reasonable time, I can effectively navigate and integrate into most tech stacks. My value lies not in knowing everything, but in quickly aligning my skills with your specific needs and context. </i></div>
 
 <h3 align="center"> 🖼️ ᖴᖇOᑎT-Eᑎᗪ </h3>
 
