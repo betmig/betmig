@@ -174,12 +174,14 @@
 <div align="center">
 
 ![Profileviews](https://komarev.com/ghpvc/?username=betmig&color=blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/betmig/betmig&title=Hits)
+![Visitors](https://shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbetmig%2Fbetmig.json)
 
 <br>
 
 <br>
-[![Stats](https://github-readme-stats-fork.vercel.app/api/wakatime?username=@betmig)](https://github.com/anuraghazra/github-readme-stats)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@betmig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
