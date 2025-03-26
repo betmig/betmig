@@ -173,13 +173,13 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=betmig&color=blue)
+![Profileviews](https://komarev.com/ghpvc/?username=betmig&color=blue)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/betmig/betmig&title=Hits)
 
 <br>
 
 <br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@betmig)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@betmig)(https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
