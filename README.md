@@ -174,7 +174,6 @@
 <div align="center">
 
 ![Profileviews](https://komarev.com/ghpvc/?username=betmig&color=blue)
-![Visitors](https://shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbetmig%2Fbetmig.json)
 
 <br>
 
