@@ -179,7 +179,7 @@
 
 <br>
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@betmig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=betmig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
