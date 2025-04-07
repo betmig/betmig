@@ -38,10 +38,10 @@
 
 <h1 align="center"> ᕦ(⍤ ﹏ ⍤)ᕥ </h1>
 
-- 🔭 I'm working on my secret visual novel 👀
+- 🔭 I'm still working on my secret visual novel 👀
 - 🌱 I’m currently learning C++, yup! 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to AI Safety organizations
+- 🥅 2025 Goals: Release my stealth mobile app :D
 - ⚡ Fun fact: I love to draw, make music and robots 🤖
 
 <h1 align="center"> ᒪᗩᑎGᑌᗩGEᔕ & TOOᒪᔕ </h1>
